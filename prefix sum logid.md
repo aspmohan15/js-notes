@@ -28,6 +28,11 @@ ps[1] = 1 + 2
 Prefix Sum
 
 inp: [-2, 0, 3, -5, 2, -1]
+    value = [0]+[1]
+    value +=[2] 
+    value +=[3] 
+    value +=[4] 
+
 
 prefix array: [-2, -2, 1, -4, -2, -3]
 
